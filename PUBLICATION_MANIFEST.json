@@ -1,0 +1,22 @@
+{
+  "date": "2026-10-05",
+  "title": "Pretrained news summarization exploration",
+  "runtime_verified_for_publication": false,
+  "files": [
+    {
+      "path": ".gitignore",
+      "sha256": "5d88202b853217c723bde4ea54206901e0bb7f1e0e782347d799332a294adc6f",
+      "bytes": 421
+    },
+    {
+      "path": "README.md",
+      "sha256": "0609ff1da6d08ea737dd499dbe56522bee0a00a98ab7d342811d0d5f14eef00f",
+      "bytes": 840
+    },
+    {
+      "path": "summarization text.ipynb",
+      "sha256": "d32a200f20071f623948325a87ae99b6ae796c4df2a225eac7fed0cbe81f3bb0",
+      "bytes": 4567
+    }
+  ]
+}

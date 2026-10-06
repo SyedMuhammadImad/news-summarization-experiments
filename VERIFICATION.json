@@ -1,0 +1,18 @@
+{
+  "date": "2026-10-07",
+  "project": "news-summarization-experiments",
+  "completion_scope": "academic project or finished document; not a production certification",
+  "checks": [
+    {
+      "name": "Actual BART generation and ROUGE on 10 CNN/DailyMail test articles",
+      "passed": true
+    },
+    {
+      "name": "Blank/malformed articles and invalid generation limits rejected",
+      "passed": true
+    }
+  ],
+  "limitations": [
+    "Small functional evaluation; pretrained models were used, not fine-tuned. All model binaries and raw article text are excluded."
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "model": "facebook/bart-large-cnn",
+  "dataset": "CNN/DailyMail supplied evaluation CSV",
+  "rows": "first N; no training performed",
+  "count": 10,
+  "rouge": {
+    "rouge1": 0.4599093453022083,
+    "rouge2": 0.2176954867171768,
+    "rougeL": 0.33549192171974884
+  }
+}

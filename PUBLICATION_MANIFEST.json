@@ -1,7 +1,7 @@
 {
-  "date": "2026-10-05",
+  "date": "2026-10-07",
   "title": "Pretrained news summarization exploration",
-  "runtime_verified_for_publication": false,
+  "completion_gate_passed": true,
   "files": [
     {
       "path": ".gitignore",
@@ -9,14 +9,34 @@
       "bytes": 421
     },
     {
+      "path": "metrics.json",
+      "sha256": "8c412f9a9392e9155d83b795a88d56bf20ed9fdc84e89fc42821966e5449a842",
+      "bytes": 283
+    },
+    {
       "path": "README.md",
-      "sha256": "0609ff1da6d08ea737dd499dbe56522bee0a00a98ab7d342811d0d5f14eef00f",
-      "bytes": 840
+      "sha256": "3044d1c7bb4e94d9f36c7b95980d25a05ac18d73be89da598022981bd45c954d",
+      "bytes": 858
+    },
+    {
+      "path": "requirements.txt",
+      "sha256": "fe8aaaa0a0910527d470d6bd6ebacb3879a378f1ca117b015c2966414cf24edd",
+      "bytes": 109
     },
     {
       "path": "summarization text.ipynb",
-      "sha256": "d32a200f20071f623948325a87ae99b6ae796c4df2a225eac7fed0cbe81f3bb0",
-      "bytes": 4567
+      "sha256": "173b8acf08164caff1d60d5df1e0794f3ca5e5c0fa0b2600b5fd08f7c5ccf087",
+      "bytes": 2444
+    },
+    {
+      "path": "summarize.py",
+      "sha256": "bc619536da515fed19fc02f9089605fde3447f5f0e80a4427a0dab7975235f50",
+      "bytes": 3219
+    },
+    {
+      "path": "VERIFICATION.json",
+      "sha256": "17efd7d1c063f0acab1b87e2e7893424ec93ed355e0ee83987bc385f96e01961",
+      "bytes": 594
     }
   ]
 }

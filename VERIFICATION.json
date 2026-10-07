@@ -1,7 +1,7 @@
 {
   "date": "2026-10-07",
   "project": "news-summarization-experiments",
-  "completion_scope": "academic project or finished document; not a production certification",
+  "completion_scope": "experimental project or finished document; not a production certification",
   "checks": [
     {
       "name": "Actual BART generation and ROUGE on 10 CNN/DailyMail test articles",
